@@ -46,7 +46,7 @@ A professional, full-stack AI chatbot system optimized for M1 MacBook Pro, featu
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/ai-chatbot-pro-m1.git
+   git clone https://github.com/usufxrex/ai-chatbot-pro-m1.git
    cd ai-chatbot-pro-m1
    ```
 
@@ -286,9 +286,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 👨‍💻 Author
 
 **Your Name**
-- GitHub: [@yourusername](https://github.com/yourusername)
-- LinkedIn: [Your Profile](https://linkedin.com/in/yourprofile)
-- Email: your.email@example.com
+- GitHub: [@yourusername](https://github.com/usufxrex)
+- Email: emonyousuf.bd@gmail.com
 
 ## 🙏 Acknowledgments
 
